@@ -1,3 +1,3 @@
-# py_online_judge
+# online_judge
 
-Repository for Python-based solutions to Online Judge questions: https://onlinejudge.org/index.php
+Repository for solutions to Online Judge questions: https://onlinejudge.org/index.php
